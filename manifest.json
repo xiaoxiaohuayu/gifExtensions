@@ -1,0 +1,15 @@
+{
+  "name": "git录制",
+  "version": "0.0.0.1",
+  "manifest_version": 3,
+  "description": "浏览器中录制视频转gif",
+  "icons": {
+    "16": "icons/g.jpg",
+    "32": "icons/g.jpg",
+    "48": "icons/g.jpg",
+    "128": "icons/g.jpg"
+  },
+  "action": {
+    "default_popup": "popup/popup.html"
+  }
+}
