@@ -4,10 +4,10 @@
   "manifest_version": 3,
   "description": "浏览器中录制视频转gif",
   "icons": {
-    "16": "icons/g.jpg",
-    "32": "icons/g.jpg",
-    "48": "icons/g.jpg",
-    "128": "icons/g.jpg"
+    "16": "icons/g.png",
+    "32": "icons/g.png",
+    "48": "icons/g.png",
+    "128": "icons/g.png"
   },
   "action": {
     "default_popup": "popup/popup.html"
